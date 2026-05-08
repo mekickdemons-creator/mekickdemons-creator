@@ -19,7 +19,7 @@ I co-author with Anthropic's Claude openly. Every Mnemara commit substantially s
 
 ## Availability
 
-Open to **part-time consulting / contracts (~20 hours/week)** in the agent-runtime / LLM-tooling space. Especially interested in problems where the rolling-window or self-monitoring patterns from Mnemara apply directly. Reach me through GitHub issues on Mnemara, or by email.
+Open to **part-time consulting / contracts (~20 hours/week)** in the agent-runtime / LLM-tooling space. Especially interested in problems where the rolling-window or self-monitoring patterns from Mnemara apply directly. Reach me through GitHub issues on Mnemara, or by email. (mekickdemons@gmail.com)
 
 ---
 
