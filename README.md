@@ -24,3 +24,6 @@ Open to **part-time consulting / contracts (~20 hours/week)** in the agent-runti
 ---
 
 [Mnemara](https://github.com/mekickdemons-creator/mnemara) · [PyPI](https://pypi.org/project/mnemara/)
+
+If Mnemara helped you build something cool. Well, I live on 1k a month, I'm crippled and on SSDI. $MikeAnderson69lol if you'd like to donate.
+Just started building stuff because I mean an idea like this can't just sit in my head ya know. The implication of what turn injections can do it staggering.
