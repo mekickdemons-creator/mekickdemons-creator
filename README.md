@@ -1,4 +1,4 @@
-Michael Anderson
+Michael Anderson MMAI LLC
 Agent Runtimes & Orchestration Infrastructure
 mekickdemons@gmail.com | [github.com/mekickdemons-creator](https://github.com/mekickdemons-creator)
 
